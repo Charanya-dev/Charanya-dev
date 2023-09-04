@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charanya-dev
 - 👀 I’m interested in ...grasping knowledge on latest technologies 
-- 🌱 I’m currently learning ...how to Wev Development
+- 🌱 I’m currently learning ...how to Web Development
 - 💞️ I’m looking to collaborate on ...Software Projects
 - 📫 How to reach me ...charanyavilluri1008@gmail.com
 
